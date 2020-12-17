@@ -1,0 +1,4 @@
+src/config/**/*
+src/modules/globalState/**/*
+src/serviceWorker.ts
+src/reportWebVitals.ts
